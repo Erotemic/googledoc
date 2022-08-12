@@ -9,7 +9,7 @@ This module aims to provide a simple means to parse information out of
 google-style docstrings.
 
 We may consider developing this into a proper sphinx extension as well, similar
-to numpydoc, and potentially as an alternative to neopoleon.
+to numpydoc, and potentially as an alternative to napoleon.
 
 
 Related Packages:
